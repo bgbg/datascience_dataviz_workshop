@@ -1,0 +1,18 @@
+channels:
+-  defaults
+-  conda-forge
+
+dependencies:
+- python>=3.6
+- beautifulsoup4>=4.6
+- ipython>=6.2.1
+- ipywidgets>=7.0.5
+- jupyter>=1.0.0
+- lxml>=4.2.1
+- matplotlib>=2.1.1
+- numpy>=1.12.1
+- pandas>=0.21.1
+- scipy>=0.19.1
+- seaborn==0.8.1
+- pip:
+  - python-bidi>=0.4.0
