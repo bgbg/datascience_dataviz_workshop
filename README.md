@@ -3,9 +3,12 @@
 A 2018 Data Science workshop.
 
 
+
 ## Important!
 
 Code repository is here: https://github.com/bgbg/datascience_dataviz_workshop
+
+During the workshop, I will share code snippets using [this shared directory](https://drive.google.com/open?id=1umiVMh5xXAxDHhXUkkNgVdDztnSjGCkx) 
 
 1. **Make sure you meet all the requirements. We will not be able to support missing installations or non-working code**. The provided notebook `00-before-we-begin.ipynb` will take you through the verification process. It will make sure that you have all the required software installed, and that you have enough knowledge to proceed with the workshop. It is up to you to make sure that everything works.
 

@@ -14,5 +14,6 @@ dependencies:
 - pandas>=0.21.1
 - scipy>=0.19.1
 - seaborn==0.8.1
+- xlrd==1.1.0
 - pip:
   - python-bidi>=0.4.0
