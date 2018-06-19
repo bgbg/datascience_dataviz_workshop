@@ -1,22 +1,18 @@
 # Data Visualization from default to outstanding. Test cases of tough data visualization problems with Python
 
-A 2018 Data Science workshop.
-
 
 
 ## Important!
 
 Code repository is here: https://github.com/bgbg/datascience_dataviz_workshop
 
-During the workshop, I will share code snippets using [this shared directory](https://drive.google.com/open?id=1umiVMh5xXAxDHhXUkkNgVdDztnSjGCkx) 
+During the workshop, I will share code snippets using [this shared directory](https://drive.google.com/open?id=1umiVMh5xXAxDHhXUkkNgVdDztnSjGCkx)
 
 1. **Make sure you meet all the requirements. We will not be able to support missing installations or non-working code**. The provided notebook `00-before-we-begin.ipynb` will take you through the verification process. It will make sure that you have all the required software installed, and that you have enough knowledge to proceed with the workshop. It is up to you to make sure that everything works.
 
 2. Visit the [workshop repository](https://github.com/bgbg/datascience_dataviz_workshop) one day before the workshop. I will update that repository with code examples and data sets. You should have them on your computer before the workshop starts.
 
-3. Please fill the [pre-workshop survey](http://bit.ly/ds2018dataviz), so that we can maximize the efficacy of this workshop.
-Also, feel free to follow [my blog](https://gorelik.net/blog)
-
+3. Follow [my blog](https://gorelik.net/blog)
 ## Workshop description
 Data visualization is an indispensable tool for any data scientist. It serves as a means to convey a message or explain a concept. You would never settle for default settings of a machine learning algorithm. Instead, you would tweak them to obtain optimal results. Similarly, you should never stop with the default results you receive from a data visualization framework. Doing so leads to suboptimal results and makes you and your message less convincing.
 
