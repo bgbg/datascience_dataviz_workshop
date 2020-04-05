@@ -1,0 +1,87 @@
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
+
+
+.container { width:99.5% !important; }
+
+/* Change code font */
+.CodeMirror pre {
+    font-size: 19pt;
+    /* line-height: 1em; */
+}
+
+
+div.output pre{
+    font-size: 19pt;
+    line-height: 1.7em;
+}
+
+
+div.output_html td{
+    font-size: 18pt;
+    line-height: 1.7em;
+}
+
+
+div.prompt{
+    font-size: 8pt;
+}
+
+div.completions select{
+    font-size: 19pt;
+    line-height: 1.7em;
+}
+
+div.container pre{
+    font-size: 19pt;
+    line-height: 1.7em;
+}
+
+div.tooltiptext pre{
+    font-size: 18pt;
+    line-height: 1.7em;
+}
+
+
+div.text_cell_render {
+    font-size: 18pt;
+    line-height: 145%;
+}
+
+div.text_cell_render code{
+    font-size: 19pt;
+    line-height: 1.7em;
+}
+
+div.text_cell_render h1,
+div.text_cell_render h2,
+div.text_cell_render h3,
+div.text_cell_render h4,
+div.text_cell_render h5,
+div.text_cell_render h6 {
+    font-weight: 1500;
+}
+
+div.text_cell_render h1 {
+    font-size: 28pt;
+}
+
+div.text_cell_render h2 {
+    font-size: 26pt;
+}
+
+div.text_cell_render h3 {
+    font-size: 24pt;
+}
+
+.rendered_html pre,
+.rendered_html code {
+    font-size: 18pt;
+    line-height: 1.7em;
+}
+*/
